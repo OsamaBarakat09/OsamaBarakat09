@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Osama</h1>
 <h3 align="center">Using methodologies between delivering analytics projects, i applying appropriate statistical and machine learning techniques to produce key insights and actionable takeaways and presenting findings and recommendations decision making. Analysis business metrics and KPIs to understand trends, identify issues and opportunities for optimization.</h3>
 
-- 🌱 I’m currently learning **Data mining.**
-
 - 🤝 I’m looking for help with **Build dynamic statistical models.**
+
+- 📊 I improving the strategies of companies [.](.)
 
 - 💬 Ask me about **statistics, data science, Quantitative.**
 
 - 📫 How to reach me **osamabarakat021@gmail.com**
 
-- ⚡ Fun fact **I can listen WhatsApp voices at 2x :)**
+- 🌱 I’m currently learning [Data mining.](Data mining.)
+
+- ⚡ Fun fact **I can listen to WhatsApp voices at 2x :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
