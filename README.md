@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Osama</h1>
-<h3 align="center">Take everything to the next level</h3>
-
 <h3 align="center">Using methodologies between delivering analytics projects, i applying appropriate statistical and machine learning techniques to produce key insights and actionable takeaways and presenting findings and recommendations decision making. Analysis business metrics and KPIs to understand trends, identify issues and opportunities for optimization.</h3>
 
 <p align="left"> <a href="https://twitter.com/mahib_alrukn" target="blank"><img src="https://img.shields.io/twitter/follow/mahib_alrukn?logo=twitter&style=for-the-badge" alt="mahib_alrukn" /></a> </p>
