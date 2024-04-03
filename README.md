@@ -1,4 +1,4 @@
-<h3 align="center">Passionate statistician</h3>
+<h3 align="center">Take everything to the next level</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
