@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osama</h1>
 <h3 align="center">Using methodologies between delivering analytics projects, i applying appropriate statistical and machine learning techniques to produce key insights and actionable takeaways and presenting findings and recommendations decision making. Analysis business metrics and KPIs to understand trends, identify issues and opportunities for optimization.</h3>
 
-- 📊 i worked in improving companies strategies **.**
+- 📊 I worked in improving companies strategies **.**
 
 - 🌱 I’m currently learning **Data mining.**
 
